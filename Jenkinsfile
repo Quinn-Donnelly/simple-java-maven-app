@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Testing (go for 6 from github THIS ONE FOR SURE !!^_^)'
+                echo '>^_^)>'
             }
         }
         stage('Deliver') {

@@ -8,12 +8,12 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo '>^_^)>'
+                echo '(>^_^)>'
             }
         }
         stage('Deliver') {
             steps {
-                echo '<(^_^<'
+                echo '<(^_^<)'
             }
         }
     }
